@@ -15,7 +15,7 @@
 * Github-Actions打卡失败时会通过Github通知邮件发送至绑定的邮箱（需要手动设置Github账号绑定的邮箱）
 * 您的学号和密码均以秘钥形式保存在您的Github仓库中，其他人无法查看
 
-![](https://i.loli.net/2020/12/06/qG5X4pUNYyTDaCz.png)
+![](https://i.loli.net/2020/12/06/qG5X4pUNYyTDaCz.png) 
 
 ![20200817190036](https://i.loli.net/2020/12/06/e5zZgs6BFDN3IUA.png)
 
